@@ -1,0 +1,16 @@
+<iframe id="gameFrame" src="https://startiw.netlify.app/static/uv/service/hvtrs8%2F-svaptkw%2Cngtnidy%2Carp-nmweg%2Cmg" width="1555" height="700" frameborder="0"></iframe>
+<button onclick="openFullscreen()">Enter Full Screen</button>
+<script>
+  function openFullscreen() {
+    var elem = document.getElementById("gameFrame");
+    if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.mozRequestFullScreen) { /* Firefox */
+      elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+      elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { /* IE/Edge */
+      elem.msRequestFullscreen();
+    }
+  }
+</script>
