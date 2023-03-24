@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/uv/service/',
-    bare: 'https://emerald.tiwweb.workers.dev/',
+    bare: 'https://tiwmain.tiwweb.workers.dev/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
