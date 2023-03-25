@@ -1,0 +1,5 @@
+.gif-container {
+  background-image: url('cog.gif');
+  background-size: cover;
+  background-position: center center;
+}
