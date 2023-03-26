@@ -1,6 +1,6 @@
 
 # TIWcog
-A Proxy/Site For TIW.! I MADE MYSELF!!!(tanks to Nebelung#1335 for helping :D)(Exept for UV)
+A skidded Proxy/Site For TIW.! I SKID MYSELF!!!
 
 ![standard](https://user-images.githubusercontent.com/128273154/227416664-c497e353-02ad-4bd1-8b08-aacaab812673.gif)
 
@@ -13,7 +13,6 @@ no replit here, its ahh
 can use replit. I do not wanna commit the crime of adding it here.
 
 ## credit
-Ty to Nebelung#1335 or Nebelung.
-Credit to me aswell.
-screw the bigger communities that didnt belive me.
+I skidded every line of code.
+Credit to https://webartdevelopers.com/blog/shooting-star-2/.
 ![standard (1)](https://user-images.githubusercontent.com/128273154/227416685-b8011c8b-67d5-457c-875f-5df1f72f9ee3.gif)
