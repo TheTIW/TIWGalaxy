@@ -7,19 +7,6 @@
 
 </head>
 <body>
-  <script src="static/uv/uv.bundle.js" defer></script>
-<script src="static/uv/uv.config.js" defer></script>
-<script src="static/register-sw.js" defer></script>
-
-<iframe title="AlienHub" id="alienhub" scrolling="no" width="450" height="150"></iframe>
-
-<script>
-window.addEventListener("load", function() {
-    var alienhub = document.getElementById("alienhub")
-
-    alienhub.src = window.location.origin + __uv$config.prefix + __uv$config.encodeUrl("https://hub.alienhub.xyz/show?utm_medium=tiw")
-})
-</script>
 <!-- partial:index.partial.html -->
 <div class="container-fluid">
   <nav class="navbar navbar-inverse">
@@ -38,6 +25,18 @@ window.addEventListener("load", function() {
 A Nav Bar I Borrowed From Code Pen, The Correct Credits Are In /Credits. <br />
       </p>
     </div>
+     <script src="static/uv/uv.bundle.js" defer></script>
+<script src="static/uv/uv.config.js" defer></script>
+<script src="static/register-sw.js" defer></script>
+
+<iframe title="AlienHub" id="alienhub" scrolling="no" width="450" height="150"></iframe>
+
+<script>
+window.addEventListener("load", function() {
+    var alienhub = document.getElementById("alienhub")
+
+    alienhub.src = window.location.origin + __uv$config.prefix + __uv$config.encodeUrl("https://hub.alienhub.xyz/show?utm_medium=tiw")
+})
     </script>
 <!-- partial -->
   <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
